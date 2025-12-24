@@ -30,7 +30,7 @@ ShopHub is a fully functional E-commerce system built entirely with **Native PHP
 
 #### 📸 Screenshots
 
-![ShopHub Preview](./1-ShopHub-Native/shophub-preview.png)
+![ShopHub Preview](shophub-preview.png)
 
 ---
 
