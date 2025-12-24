@@ -1,9 +1,9 @@
 # 🚀 Web Development Journey
 
-Welcome to my central repository for Web Development projects. Here, I document my journey in building full-stack applications, solving algorithmic problems, and mastering core technologies from scratch.
+Welcome to my central repository for Web Development projects. Here, I document our journey in building full-stack applications, solving algorithmic problems, and mastering core technologies from scratch.
 
-![Banner](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-*(Note: You can replace this link with a screenshot of your actual project later)*
+![Banner](./banner.jpg)
+*(Note: Ensure you have the banner image named banner.jpg in the same folder)*
 
 ---
 
@@ -21,14 +21,16 @@ ShopHub is a fully functional E-commerce system built entirely with **Native PHP
 
 #### ✨ Key Features
 * **Authentication:** Secure Login/Registration system with hashed passwords.
-* **Role-Based Access:** * **User:** Browse products, add to cart, checkout.
+* **Role-Based Access:**
+    * **User:** Browse products, add to cart, checkout.
     * **Admin:** Dashboard to manage products (CRUD operations) and view orders.
 * **Shopping Cart:** Session-based cart system with real-time updates.
 * **Checkout System:** Order processing and stock management logic.
 * **Security:** Input sanitization (to prevent SQL Injection) and XSS protection.
 
 #### 📸 Screenshots
-*(Add your project screenshots here later, e.g., The Login Page or Admin Dashboard)*
+
+![ShopHub Preview](./1-ShopHub-Native/shophub-preview.png)
 
 ---
 
@@ -51,8 +53,14 @@ ShopHub is a fully functional E-commerce system built entirely with **Native PHP
 
 ---
 
-## 👨‍💻 Author
-**Mahmoud Wajih** *Student at SU Tech | Full Stack Developer Enthusiast*
+## 👥 Team Members
+
+This project was collaboratively developed by:
+
+* **Mahmoud Wajih**
+* **Abdullah Adel Ali**
+* **Mohamed Meshref**
+* **Omar Ahmed Zaki**
 
 ---
 *⭐ If you like this project, please give the repo a star!*
