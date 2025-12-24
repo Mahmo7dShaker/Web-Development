@@ -2,7 +2,7 @@
 
 Welcome to my central repository for Web Development projects. Here, I document our journey in building full-stack applications, solving algorithmic problems, and mastering core technologies from scratch.
 
-![Banner](./banner.jpg)
+![Banner](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 *(Note: Ensure you have the banner image named banner.jpg in the same folder)*
 
 ---
